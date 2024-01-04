@@ -1,0 +1,83 @@
+.nav-item {
+    color: #86B6F6;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.background {
+    background-color: #B4D4FF;
+}
+
+.big-cont {
+    background-color: #EEF5FF;
+}
+
+.img {
+    display: grid;
+    justify-content: center;
+    margin-top: 100px;
+    align-items: center;
+}
+
+.gb {
+    background: rgb(23, 107, 135);
+    background: linear-gradient(90deg, rgba(23, 107, 135, 1) 0%, rgba(134, 182, 246, 1) 32%, rgba(180, 212, 255, 1) 73%, rgba(238, 245, 255, 1) 98%);
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ss {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(42, 39, 39);
+}
+
+.content-wrapper {
+    flex-direction: column;
+    align-items: flex-start; /* Left-align items for smaller screens */
+}
+
+.abt {
+    text-align: left;
+    margin-left: 15px; /* Adjust margin for better alignment */
+}
+
+p {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Work Sans', sans-serif;
+    text-align: left;
+    
+    color: rgb(42, 39, 39);
+}
+
+h2 {
+    text-align: left;
+    margin-left: 15px;
+}
+.lead{
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Work Sans', sans-serif;
+}
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .gb {
+    overflow: hidden;
+  }
+  
+  #custom-cards {
+    margin-bottom: -20px; /* Adjust this value as needed */
+  }
+  
+  footer {
+    margin-top: -20px; /* Adjust this value as needed */
+  }
+  
